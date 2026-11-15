@@ -1,0 +1,26 @@
+{
+  "shapes": [
+    { "suffix": "",        "intervals": [0, 4, 7] },
+    { "suffix": "m",       "intervals": [0, 3, 7] },
+    { "suffix": "dim",     "intervals": [0, 3, 6] },
+    { "suffix": "aug",     "intervals": [0, 4, 8] },
+    { "suffix": "sus2",    "intervals": [0, 2, 7] },
+    { "suffix": "sus4",    "intervals": [0, 5, 7] },
+
+    { "suffix": "maj7",    "intervals": [0, 4, 7, 11] },
+    { "suffix": "7",       "intervals": [0, 4, 7, 10] },
+    { "suffix": "m7",      "intervals": [0, 3, 7, 10] },
+    { "suffix": "m7b5",    "intervals": [0, 3, 6, 10] },
+    { "suffix": "dim7",    "intervals": [0, 3, 6, 9] },
+    { "suffix": "mMaj7",   "intervals": [0, 3, 7, 11] },
+    { "suffix": "augMaj7", "intervals": [0, 4, 8, 11] },
+
+    { "suffix": "6",       "intervals": [0, 4, 7, 9] },
+    { "suffix": "m6",      "intervals": [0, 3, 7, 9] },
+    { "suffix": "add9",    "intervals": [0, 4, 7, 14] },
+    { "suffix": "9",       "intervals": [0, 4, 7, 10, 14] },
+    { "suffix": "maj9",    "intervals": [0, 4, 7, 11, 14] },
+    { "suffix": "m9",      "intervals": [0, 3, 7, 10, 14] },
+    { "suffix": "7sus4",   "intervals": [0, 5, 7, 10] }
+  ]
+}

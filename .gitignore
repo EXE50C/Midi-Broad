@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+packages/*.nupkg
+!packages/.gitkeep
+artifacts/
+*.log
+config.json
+settings.json
