@@ -23,6 +23,8 @@ packages/Windows.Devices.Midi2.0.99.92-preview.11.nupkg
 
 ## Build
 
+https://github.com/EXE50C/Midi-Broad/releases/
+
 ```powershell
 dotnet build ".\MidiBroad.sln" -c Debug -p:Platform=x64
 ```
