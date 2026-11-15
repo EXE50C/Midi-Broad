@@ -197,3 +197,4 @@ tools/           icon generator
 ## License
 
 MIT. See `LICENSE`. The Windows MIDI Services SDK package is MIT-licensed; Interception is not used in this version.
+
