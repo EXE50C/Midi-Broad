@@ -5,10 +5,11 @@ Turn a spare USB keyboard into a MIDI controller on Windows.
 Midi Broad captures the keys you choose (for example `Z S X D C …`), maps them to MIDI notes, and exposes a MIDI port named **Midi Broad** that any DAW or MIDI monitor can open.
 
 > Status: v0.1 prototype. The Windows MIDI Services API is still a preview. The app now uses a service-owned loopback endpoint pair instead of an app-owned virtual device, so closing the app no longer tears down the MIDI transport.
-
+<img width="2559" height="1599" alt="Screenshot 2026-11-16 025045" src="https://github.com/user-attachments/assets/b3ae143e-fdc5-4b23-9c0d-72d1550d7b5a" />
 ---
 
 ## Requirements
+
 
 - Windows 11 **25H2 or newer** (build 26200+). Windows MIDI Services is part of the OS on these builds.
 - .NET 10 SDK to build. No Visual Studio is required.
